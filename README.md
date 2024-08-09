@@ -6,3 +6,6 @@ The paper itself contains reference implementations in Java, but in this reposit
 
 We currently have a reference implementation `HyperBit64.java` which is deprecated, but we will update this repository with our final code soon.
 
+## Other Implementations
+
+- [Heinz N. Gies](https://github.com/Licenser): [https://github.com/axiomhq/hypertwobits/](https://github.com/axiomhq/hypertwobits/)
