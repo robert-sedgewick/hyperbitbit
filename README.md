@@ -8,4 +8,9 @@ We currently have a reference implementation `HyperBit64.java` which is deprecat
 
 ## Other Implementations
 
-- [Heinz N. Gies](https://github.com/Licenser): [https://github.com/axiomhq/hypertwobits/](https://github.com/axiomhq/hypertwobits/)
+- [Heinz N. Gies](https://github.com/Licenser): (Rust) [https://github.com/axiomhq/hypertwobits/](https://github.com/axiomhq/hypertwobits/)
+
+These implementations were made of an earlier version of HyperBitBit, and may not be current:
+
+- [Seif Lotfy](https://github.com/seiflotfy): (Go) [https://github.com/seiflotfy/hyperbitbit](https://github.com/seiflotfy/hyperbitbit)
+- [Nikolay Novik](https://github.com/jettify): (Rust) [https://github.com/jettify/hyperbitbit](https://github.com/jettify/hyperbitbit)
